@@ -68,7 +68,7 @@ section h2 {
 }
 
 #mainNav .navbar-brand {
-  color: #acd6ff;
+  color: #222222;
   font-family: '微軟正黑體', 'Catamaran', 'Helvetica', 'Arial', 'sans-serif';
   font-weight: 200;
   letter-spacing: 1px;
@@ -116,7 +116,7 @@ section h2 {
     background-color: transparent;
   }
   #mainNav .navbar-brand {
-    color: fade(white, 70%);
+    color: fade(white, 90%);
   }
   #mainNav .navbar-brand:hover, #mainNav .navbar-brand:focus {
     color: white;
